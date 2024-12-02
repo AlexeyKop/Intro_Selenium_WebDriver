@@ -7,3 +7,5 @@ R
 "src/test/java/GeekBrainsTests.java,e\1\e193da1de5e6262f5f1106e74da8ed7b856fa6ce
 Q
 !src/test/java/PerfectGBTests.java,6\4\64d2219546d58579a428847a13cc8c89482534ac
+O
+src/test/java/AddGroupTest.java,3\c\3ccc5bd9bc94eabd2ce7e3e2aed33bd859da3383
